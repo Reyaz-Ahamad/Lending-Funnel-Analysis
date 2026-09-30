@@ -1,4 +1,4 @@
-#Lending Funnel Analysis
+# Lending Funnel Analysis
 
 ## 📌 Project Overview
 
